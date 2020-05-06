@@ -15,12 +15,12 @@ make all
 
 Part 1 and Part 2:
 
-./create_and_test_hash <words file name> <query words file name> <flag>
+"./create_and_test_hash <words file name> <query words file name> <flag>"
  where flag can be linear, quadratic, or double. If double is chosen, include an R value.
 e.g ./create_and_test_hash words.txt query_words.txt quadratic
 
 Part 3:
-./spell_check <document file> <dictionary file>
+"./spell_check <document file> <dictionary file>"
 e.g ./spell_check document1_short.txt wordsEN.txt
 
 --------------------------------
