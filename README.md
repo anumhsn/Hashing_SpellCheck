@@ -2,7 +2,7 @@ Anum Hassan
 Assignment 3 - Hashtables
 
 Description:
-All parts of this assignment were completed. Using the code provided by Hunter College, the textbook, and various online sources (Geeksforgeeks, stackoverflow, youtube, cplusplus.com, etc) implemented hashtables using linear probing, quadratic probing, and double hashing. Also implemented a spell checker that would correct words in a document by comparing it to a given dictionary. This was done by feeding the dictionary words into a hashtable, and checking to see if the other document's words were present in the hashtable, and if not, tried 3 cases (Adding one character in any possible position, Removing one character from the word, Swapping adjacent characters in the word) to change the word up to see if that word is present in the dictionary. 
+All parts of this assignment were completed. Using the code provided by Hunter College, and the textbook,implemented hashtables using linear probing, quadratic probing, and double hashing. Also implemented a spell checker that would correct words in a document by comparing it to a given dictionary. This was done by feeding the dictionary words into a hashtable, and checking to see if the other document's words were present in the hashtable, and if not, tried 3 cases (Adding one character in any possible position, Removing one character from the word, Swapping adjacent characters in the word) to change the word up to see if that word is present in the dictionary. 
 
 Double Hashing: R value = 69. 
  
